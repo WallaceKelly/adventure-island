@@ -2,6 +2,8 @@
 
 The original console game (circa 2006.)
 
+<https://youtu.be/sbp8dXauV44>
+
 ## Build and run
 
 Install .NET SDK 8.
